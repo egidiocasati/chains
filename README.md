@@ -9,11 +9,11 @@ Here's a friendly Digital Ocean $50 credit Coupon link: https://m.do.co/c/132ef6
 
 ## 1. Setup
 For the sake of simplicity, we will assume you have selected the following DigitalOcean configuration.  
-Please not that this is just an example, but any configuration similar to this one will work perfectly fine.      
+Please note that this is just an example, but any configuration similar to this one will work perfectly fine.      
 
 | Characteristic | Specification |
 | :------------: | :-----------: |
-| Operative System | Ubuntu 18.04 |
+| Operating System | Ubuntu 18.04 |
 | Number of CPUs | 2 |
 | RAM | 4GB |
 | SSD | 80GB | 
